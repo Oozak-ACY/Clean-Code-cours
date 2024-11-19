@@ -1,0 +1,14 @@
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\Clean Code cours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\Clean Code cours.AssemblyInfoInputs.cache
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\Clean Code cours.AssemblyInfo.cs
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\Clean Code cours.csproj.CoreCompileInputs.cache
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\bin\Debug\net9.0\Clean Code cours.exe
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\bin\Debug\net9.0\Clean Code cours.deps.json
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\bin\Debug\net9.0\Clean Code cours.runtimeconfig.json
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\bin\Debug\net9.0\Clean Code cours.dll
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\bin\Debug\net9.0\Clean Code cours.pdb
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\Clean Code cours.dll
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\refint\Clean Code cours.dll
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\Clean Code cours.pdb
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\Clean Code cours.genruntimeconfig.cache
+C:\Users\loank\OneDrive\Documents\GitHub\Clean Code cours\obj\Debug\net9.0\ref\Clean Code cours.dll
